@@ -1,0 +1,1 @@
+"Intento de Hello World en lenguaje GO"
